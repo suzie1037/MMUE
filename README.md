@@ -1,6 +1,6 @@
 # Pytorch implementation for multi-modality uncertainty analysis.
 
-# Requirements:
+Requirements:
 
 python==3.6
 
