@@ -1,4 +1,4 @@
-# Pytorch implementation for multi-modality uncertainty analysis.
+# Pytorch project for multi-modality uncertainty analysis.
 
 Requirements:
 
